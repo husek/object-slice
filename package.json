@@ -1,6 +1,6 @@
 {
   "name": "object-slice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slice Objects into subsets, similar to Ruby's behaviour",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,6 +12,18 @@
   "license": "ISC",
   "files": [
     "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husek/object-slice.git"
+  },
+  "homepage": "https://github.com/husek/object-slice/",
+  "keywords": [
+    "object",
+    "slice",
+    "object slice",
+    "ruby",
+    "subset"
   ],
   "devDependencies": {
     "@types/jest": "^26.0.20",
