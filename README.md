@@ -31,7 +31,7 @@ const justNames = sliceObject(params, 'firstName', 'lastName');
 
 #### ProtoType Version
 ```js
-import 'object-slice/injectSliceObject';
+import 'object-slice/lib/injectSliceObject';
 
 const params = {
   firstName: 'Von',
