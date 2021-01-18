@@ -1,5 +1,5 @@
 # Object Slice
-**object-slice** creates subsets of objects in a similar fashion Ruby does with .splice();
+**object-slice** creates subsets of objects in a similar fashion Ruby does with .slice();
 
 ## Installation
 ```
